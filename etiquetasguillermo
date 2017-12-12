@@ -1,0 +1,13 @@
+<html>
+<body>
+<br/>
+Hola me llamo Guillermo y voy a enseñar las diferentes etiquetas para html, 1 etiqueta para enlaces, cuatro etiquetas para ordenar  el contenido, una para citas y 2 etiquetas para listas. <br/>
+la primera etiqueta que voy a enseñar se llama src, la etiqueta src indica el nombre de la imagen o su dirección web URL para mostrarla.<br/>
+La segunda etiqueta es alt, alt se usa unicamente para mostrar un texto en el caso que la imagen no pueda mostrarse.<br/>
+La etiqueta para poner enlaces  se llama 'a href="http://ladireccionquequieras poner" >Aqui el texto que quieras a' Con esta etiqueta puedes poner tanto como un enlace como un texto con hiperenlace. <br/>
+La siguiente etiqueta que voy a ense�ar se llama DIV, esta etiqueta se usa como contenedor de etiquetas y se representa como 'div'<br/>
+Junto a esa etiqueta est� la etiqueta 'span' que sirve para asignarle un nombre a un trozo de texto y esto hace que el navegador al ver la etiqueta 'span' busque si hay algun estilo asociado a esta etiqueta.<br/>
+Como tercera etiqueta ahora tenemos NAV, NAV es otra etiqueta que se usa para adjuntar varias etiquetas dentro de esta, en este caso adjuntar  etiquetas tipo enlace.<br/>
+La ultima etiqueta que voy a ense�ar se llama SECTION, esta etiqueta sirve para cerrar el codigo correspondiente a esta etiqueta.<br/>
+Comenzando por la unica etiqueta que voy a ense�ar para crear citas, empezar� por 'cites',  cites sirve para citas cortas, mientras que  BLOCKQUOTE sirve para citas largas.<br/>
+Finalmente voy a ense�ar a hacer etiquetas para listas ordenadas y desordenadas, estas son   'OL' y 'UL' 'OL' para etiquetas ordenadas y 'UL' desordenadas.  
